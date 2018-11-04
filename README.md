@@ -30,8 +30,11 @@ Further we can also use the following resource: https://neo4j.com/blog/analyzing
 
 # A list of internal milestones up until project milestone 2
 Further analyze the data, wrangling
+
 Learn neo4j
+
 Local visualization
+
 Data enrichment
 
 
