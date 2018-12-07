@@ -1,4 +1,4 @@
-CPI Rank,Country,Country Code,Region,Corruption Perceptions Index (CPI),Standard Error,Lower Confidence Interval,Upper Confidence Interval,World Bank CPIA,World Economic Forum EOS,Global Insight Country Risk Ratings,Bertelsmann Foundation Transformation Index,African Development Bank CPIA,IMD World Competitiveness Yearbook,Bertelsmann Foundation Sustainable Governance Index,World Justice Project Rule of Law Index,PRS International Country Risk Guide,Varities of Democracy Project,Economist Intelligence Unit Country Ratings,Freedom House Nations in Transit Ratings,PERC Asia Risk Guide,Sources
+CPI Rank,Country,Country Code,Region,CPI,Standard Error,Lower Confidence Interval,Upper Confidence Interval,World Bank CPIA,World Economic Forum EOS,Global Insight Country Risk Ratings,Bertelsmann Foundation Transformation Index,African Development Bank CPIA,IMD World Competitiveness Yearbook,Bertelsmann Foundation Sustainable Governance Index,World Justice Project Rule of Law Index,PRS International Country Risk Guide,Varities of Democracy Project,Economist Intelligence Unit Country Ratings,Freedom House Nations in Transit Ratings,PERC Asia Risk Guide,Sources
 1,New Zealand,NZL,Asia Pacific,90,2.56,86,94,,90,83,,,95,99,79,93,,90,,,7
 1,Denmark,DNK,Europe and Central Asia,90,2.46,86,94,,85,83,,,98,99,85,93,,90,,,7
 3,Finland,FIN,Europe and Central Asia,89,1.46,87,92,,91,83,,,94,90,85,93,,90,,,7
@@ -109,7 +109,7 @@ CPI Rank,Country,Country Code,Region,Corruption Perceptions Index (CPI),Standard
 108,Guyana,GUY,Americas,34,3.57,29,40,35,25,34,,,,,40,25,47,,,,6
 108,Algeria,DZA,Middle East and North Africa,34,2.94,29,39,,33,22,36,,,,,32,44,37,,,6
 108,Egypt,EGY,Middle East and North Africa,34,2.72,29,38,,42,22,32,,,,37,32,,37,,,6
-108,CÌ«te d‰ÛªIvoire,CIV,Sub-Saharan Africa,34,2.03,31,38,35,32,47,28,32,,,30,32,,37,,,8
+108,CíÇte däó»Ivoire,CIV,Sub-Saharan Africa,34,2.03,31,38,35,32,47,28,32,,,30,32,,37,,,8
 108,Ethiopia,ETH,Sub-Saharan Africa,34,1.37,31,36,35,37,34,24,38,,,33,32,32,37,,,9
 113,Bolivia,BOL,Americas,33,2.85,28,37,35,18,34,36,,,,25,32,44,37,,,8
 113,Vietnam,VNM,Asia Pacific,33,2.46,29,38,35,34,34,28,,,,40,41,,19,,35,8
