@@ -7,13 +7,13 @@ The Panama Papers are an unprecedented leak of 11.5 million documents from the d
 
 The story of panama: How and when it became a fiscal paradise? What is the legal and illegal side? how many country and persons are affected?
 
-How are some of the 500 fortune companies implicated? 
+How are some of the 500 fortune companies implicated?
 
-In what way does these offshore entities function? What makes an offshore entity look suspicious? 
+In what way does these offshore entities function? What makes an offshore entity look suspicious?
 
 Which countries are the most affected? Is there a common point between them?
 
-How does the correlation between a country economic/sociopolitical conditions and corruption/illegal activities change? Can we find higher correlation between undeveloped country? 
+How does the correlation between a country economic/sociopolitical conditions and corruption/illegal activities change? Can we find higher correlation between undeveloped country?
 
 Is there a correlation between politicians and offshore companies?
 
@@ -34,6 +34,16 @@ Local visualization
 
 Data enrichment
 
+# Contributions
+
+Ilija: Graph Analysis, Plotting graphs for data analysis, Preliminary Data Analysis, Power Players versus Percieved Corruption Index, Smaller Contribution to Website, Final Presentation, Probably will be presenting
+
+Mahmoud: Correlation Analysis between indexes and panama paper datasets, Preliminary Data Analysis, Plotting graps for the correlation between indexes and panama paper datasets, Small Contribution to Website, Final Presentation
+
+Gauthier: Large Contribution to Website, Correlation Analysis between indexes and panama paper datasets, Preliminary Data Analysis, Final Presentation, Graph Analysis(neo4j, however not used)
+
+# Link to Website
+https://gaumuel.github.io/Project/
 
 # Questions for TAa
 Add here some questions you have for us, in general or project-specific.
